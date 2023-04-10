@@ -1,0 +1,18 @@
+button{
+  font-size:20px;
+}
+.character-container{
+  float: center;
+  width:100%;
+  margin: 0 50%;
+}
+.nav-container{
+  position: fixed;
+  top: 0px;
+align-items: center;
+justify-content: space-between;
+height: 90px;
+  width:500vh;
+padding: 0 2rem;
+background-color: lightblue;
+}
